@@ -1,2 +1,2 @@
 # boutiquemanagement
-Boutique Management in C
+Boutique Management in C++
